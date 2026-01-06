@@ -1,0 +1,4 @@
+.docker/mysql/dbdata
+vendor
+node_modules
+.git
